@@ -43,8 +43,8 @@
 <img src="./assets/icons/bash.png" alt="bash" width="100" hight="50">
 <img src="./assets/icons/Node.js_logo.svg" alt="nodejs" width="180" hight="50">
 </br>
-<img src="" alt="google_cloud_platform" width="270" hight="50">
-<img src="" alt="visualstudio_code" width="240" hight="50">
+<img src="./assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="./assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
 <img src="./assets/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="./assets/icons/mongodb.png" alt="MongoDB" width="100" hight="50">
